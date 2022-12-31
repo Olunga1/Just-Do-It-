@@ -1,4 +1,4 @@
-[TMF] Just Do It !
+[TMF] Just Do It!
 
 
 ## Description
@@ -15,7 +15,7 @@ Only one type of user for this app, and it can be anybody !
 
 ## Objectives
 
-*What are the objectives to complete the project ?*
+*What are the objectives to complete the project?*
 
 # FEATURES
 
